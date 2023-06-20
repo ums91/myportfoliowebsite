@@ -3,7 +3,7 @@
 Portfolio Website
 This is a repository for a portfolio website, which can be used to showcase your work, projects, and skills in an adorable and visually appealing manner. The website is designed to be charming and engaging, capturing the attention of visitors with its cute aesthetic.
 
-Features
+Features:
 Responsive Design: The portfolio website is built with a responsive design, ensuring that it looks great and functions well on various devices and screen sizes, including desktops, tablets, and mobile devices.
 
 Customizable Content: You can easily customize the content of the website to showcase your own work and projects. The website includes sections for an about me page, work, skills, and contact information.
@@ -16,7 +16,7 @@ social media links: The website includes social media links that visitors can us
 
 Cute Design Elements: The website incorporates cute design elements such as adorable illustrations, playful animations, and vibrant colors to create an engaging and delightful user experience.
 
-Technologies Used
+Technologies Used:
 HTML: The structure and layout of the website are built using HTML (Hypertext Markup Language).
 
 CSS: The website's styling and visual presentation are done using CSS (Cascading Style Sheets).
@@ -34,6 +34,6 @@ Share the link to your portfolio website with others and start showcasing your w
 
 Contributions: Contributions to this project are welcome! As an amateur programmer, I understand that my code may contain errors and may not follow best practices. This GitHub repository is a learning space where I document my progress and seek guidance from the community. I kindly request experienced developers to provide constructive feedback, suggestions, and help me improve my coding skills. I appreciate your understanding and support.If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request on the GitHub repository.
 
-Credits
+Credits:
 The portfolio website is inspired by Sean Halpin
 
