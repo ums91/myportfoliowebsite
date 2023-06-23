@@ -1,4 +1,8 @@
-# myportfoliowebsite
+[![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)](https://html.com/)
+[![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)](http://expressjs.com/)
+[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.shellscript.sh/)
+
 
 Portfolio Website
 This is a repository for a portfolio website, which can be used to showcase your work, projects, and skills in an adorable and visually appealing manner. The website is designed to be charming and engaging, capturing the attention of visitors with its cute aesthetic.
