@@ -6,7 +6,9 @@
 Portfolio Website (Visit at ➡ [My Portfolio Website](https://ums91.github.io/myportfoliowebsite/)
 <br>
 This is a repository for a portfolio website, which can be used to showcase your work, projects, and skills in an adorable and visually appealing manner. The website is designed to be charming and engaging, capturing the attention of visitors with its cute aesthetic.
-[[<img src="[My Portfolio Website](https://github.com/ums91/myportfoliowebsite/blob/main/project1.gif)">](https://github.com/ums91/myportfoliowebsite/blob/main/project1.gif)](https://github.com/ums91/myportfoliowebsite/blob/main/project1.gif)
+<br>
+https://github.com/ums91/myportfoliowebsite/blob/main/project1.gif
+
 
 Features:
 Responsive Design: The portfolio website is built with a responsive design, ensuring that it looks great and functions well on various devices and screen sizes, including desktops, tablets, and mobile devices.
